@@ -1,5 +1,9 @@
 # agvise-ai-seminar-handouts
 
+<!-- BADGES:START -->
+[![ai-and-machine-learning](https://img.shields.io/badge/-ai--and--machine--learning-blue?style=flat-square)](https://github.com/topics/ai-and-machine-learning) [![educational-resources](https://img.shields.io/badge/-educational--resources-blue?style=flat-square)](https://github.com/topics/educational-resources) [![html](https://img.shields.io/badge/-html-e34f26?style=flat-square)](https://github.com/topics/html) [![web-development](https://img.shields.io/badge/-web--development-blue?style=flat-square)](https://github.com/topics/web-development) [![seminar-materials](https://img.shields.io/badge/-seminar--materials-blue?style=flat-square)](https://github.com/topics/seminar-materials) [![presentation](https://img.shields.io/badge/-presentation-9c27b0?style=flat-square)](https://github.com/topics/presentation) [![agriculture](https://img.shields.io/badge/-agriculture-blue?style=flat-square)](https://github.com/topics/agriculture) [![ai](https://img.shields.io/badge/-ai-ff6f00?style=flat-square)](https://github.com/topics/ai) [![automation](https://img.shields.io/badge/-automation-blue?style=flat-square)](https://github.com/topics/automation) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech)
+<!-- BADGES:END -->
+
 Professional HTML-based handouts and presentation materials for AI and machine learning seminars focused on agricultural consulting and productivity enhancement. This repository provides interactive web-based resources for learning practical AI applications in agricultural contexts.
 
 ## Overview
